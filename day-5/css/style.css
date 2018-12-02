@@ -1,0 +1,150 @@
+* {box-sizing: border-box;}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*= "col-"] {
+    float: left;
+    border: 1px solid gray;
+}
+
+.row::after {
+    content: ' ';
+    clear: both;
+    display: block;
+}
+
+.wrapper {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+.header-height { height: 200px;}
+.menu-height { height: 50px;}
+.content-height { height: 600px;}
+.footer-top-height { height: 250px;}
+.footer-height { height: 40px;}
+
+.main-ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.main-ul li {
+    float: left;
+    width: 120px;
+    border: 1px solid gray;
+}
+
+.main-ul li a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
+    height: 47px;
+    color: #ffffff;
+    background-color: #000000;
+    transition: 0.5s;
+}
+.main-ul li a:hover {
+    color: #000000;
+    background-color: #ffffff;
+}
+/*.div-one {*/
+    /*width: 200px;*/
+    /*height: 200px;*/
+    /*background-color: red;*/
+    /*margin: 50px 0 0 50px;*/
+    /*!*border-radius: 200px 0 0 0;*!*/
+    /*transform: skewY(25deg);*/
+    /*float: left;*/
+/*}*/
+/*.div-two {*/
+    /*width: 200px;*/
+    /*height: 200px;*/
+    /*background-color: red;*/
+    /*margin: 50px 0 0 5px;*/
+    /*!*border-radius: 200px 0 0 0;*!*/
+    /*transform: skewY(-25deg);*/
+    /*float: left;*/
+/*}*/
+
+/*.div-one {*/
+    /*width: 20px;*/
+    /*height: 200px;*/
+    /*background-color: #FF0000;*/
+    /*float: left;*/
+    /*margin: 100px 0 0 100px;*/
+    /*transform: skew(-30deg);*/
+/*}*/
+/*.div-two {*/
+    /*width: 20px;*/
+    /*height: 200px;*/
+    /*background-color: #FF0000;*/
+    /*float: left;*/
+    /*margin: 100px 0 0 100px;*/
+    /*transform: skew(30deg);*/
+/*}*/
+
+.div-one {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    margin: 50px 0  0 50px;
+    float: left;
+    animation: bitm;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    /*transform: rotate(0deg);*/
+    /*transition: 0.5s;*/
+    /*background: linear-gradient(to left, red , green);*/
+}
+
+
+@keyframes bitm {
+    /*0% {background-color: red; width: 200px;height: 200px;}*/
+    /*25% {background-color: green; width: 400px; height: 200px;}*/
+    /*50% {background-color: orange; width: 200px; height: 200px;}*/
+    /*75% {background-color: violet; height: 400px; width: 200px;}*/
+    /*100% {background-color: yellow; width: 200px; height: 200px;}*/
+    /*0% {transform: rotate(72deg);}*/
+    /*25% {transform: rotate(144deg);}*/
+    /*50% {transform: rotate(216deg);}*/
+    /*75% {transform: rotate(288deg);}*/
+    /*100% {transform: rotate(360deg);}*/
+    0% {background: url("../images/1.jpg"); background-size: cover;}
+    25% {background: url("../images/2.jpg");background-size: cover;}
+    50% {background: url("../images/3.jpg");background-size: cover;}
+    75% {background: url("../images/4.jpg");background-size: cover;}
+    100% {background: url("../images/5.jpg");background-size: cover;}
+}
+.div-one:hover {
+    /*transform: rotate(360deg);*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
