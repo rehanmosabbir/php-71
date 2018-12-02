@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7149ae8f-b341-4ea3-8ba6-caf00ae92624" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day-4/layout-two.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,17 +28,23 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5008591">
+    <splitter split-orientation="horizontal" split-proportion="0.5693642">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/day-4/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="368">
-                  <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
-                  <folding>
-                    <element signature="n#style#0;n#P#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
+                <state relative-caret-position="580">
+                  <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/day-4/layout-two.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="695">
+                  <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -48,8 +56,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/day-4/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="23">
-                  <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+                <state relative-caret-position="897">
+                  <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -61,8 +69,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -77,12 +85,12 @@
         <option value="$PROJECT_DIR$/day-3/contact.html" />
         <option value="$PROJECT_DIR$/day-4/index.html" />
         <option value="$PROJECT_DIR$/day-4/style.css" />
+        <option value="$PROJECT_DIR$/day-4/layout-two.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="29" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
@@ -91,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,6 +115,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,6 +158,7 @@
       <workItem from="1543660023846" duration="99000" />
       <workItem from="1543660145717" duration="5209000" />
       <workItem from="1543678543486" duration="4335000" />
+      <workItem from="1543728289032" duration="7067000" />
     </task>
     <task id="LOCAL-00001" summary="index.html file added">
       <created>1543570392108</created>
@@ -179,16 +188,24 @@
       <option name="project" value="LOCAL" />
       <updated>1543683533268</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="index.html and style.css file added">
+      <created>1543728328109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543728328109</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15351000" />
+    <option name="totallyTimeSpent" value="22418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11951589" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,20 +298,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-4/style.css">
+    <entry file="file://$PROJECT_DIR$/day-4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="580">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-4/index.html">
+    <entry file="file://$PROJECT_DIR$/day-4/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#P#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="897">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-4/layout-two.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
         </state>
       </provider>
     </entry>
