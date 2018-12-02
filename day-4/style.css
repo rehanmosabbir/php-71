@@ -46,7 +46,7 @@
     border: 1px solid;
 }
 
-.row:after {
+.row::after {
     content: ' ';
     clear: both;
     display: block;

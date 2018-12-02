@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7149ae8f-b341-4ea3-8ba6-caf00ae92624" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day-4/layout-two.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/day-4/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +26,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5693642">
+    <splitter split-orientation="horizontal" split-proportion="0.41415012">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
@@ -43,8 +41,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/day-4/layout-two.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="695">
-                  <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+                <state relative-caret-position="713">
+                  <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -56,8 +54,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/day-4/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="897">
-                  <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+                <state relative-caret-position="276">
+                  <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -84,12 +82,12 @@
         <option value="$PROJECT_DIR$/day-3/about.html" />
         <option value="$PROJECT_DIR$/day-3/contact.html" />
         <option value="$PROJECT_DIR$/day-4/index.html" />
-        <option value="$PROJECT_DIR$/day-4/style.css" />
         <option value="$PROJECT_DIR$/day-4/layout-two.html" />
+        <option value="$PROJECT_DIR$/day-4/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="29" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
@@ -105,11 +103,6 @@
             <path>
               <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-71" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-71" type="462c0819:PsiDirectoryNode" />
-              <item name="day-4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,7 +151,7 @@
       <workItem from="1543660023846" duration="99000" />
       <workItem from="1543660145717" duration="5209000" />
       <workItem from="1543678543486" duration="4335000" />
-      <workItem from="1543728289032" duration="7067000" />
+      <workItem from="1543728289032" duration="8918000" />
     </task>
     <task id="LOCAL-00001" summary="index.html file added">
       <created>1543570392108</created>
@@ -199,13 +192,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22418000" />
+    <option name="totallyTimeSpent" value="24269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123298034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -305,17 +298,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-4/style.css">
+    <entry file="file://$PROJECT_DIR$/day-4/layout-two.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        <state relative-caret-position="713">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-4/layout-two.html">
+    <entry file="file://$PROJECT_DIR$/day-4/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        <state relative-caret-position="276">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
         </state>
       </provider>
     </entry>
