@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HOME</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+          integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col-md-6">
+                <form action="" method="post">
+                    <div class="form-group">
+                        <label for="firstName" class="col-form-label">First Name:</label>
+                        <input id="firstName" type="text" name="first_name" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="lastName" class="col-form-label">Last Name:</label>
+                        <input id="lastName" type="text" name="last_name" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="email" class="col-form-label">Email Address:</label>
+                        <input id="email" type="email" name="email_address" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="pass" class="col-form-label">Password:</label>
+                        <input id="pass" type="password" name="password" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="phone" class="col-form-label">Phone Number:</label>
+                        <input id="phone" type="tel" name="phone_number" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="address" class="col-form-label">Address:</label>
+                        <textarea id="address" name="address" class="form-control"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="birthDate" class="col-form-label">Date of Birth:</label>
+                        <input id="birthDate" type="date" name="date_of_birth" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="" class="col-form-label">Gender:</label><br>
+                        <input id="male" type="radio" name="gender" value="male"> Male
+                        <input id="female" type="radio" name="gender" value="female"> Female
+                    </div>
+                    <div class="form-group">
+                        <label for="district" class="col-form-label">District Name:</label>
+                        <select name="district_name" id="district" class="form-control">
+                            <option value="dhaka">Dhaka</option>
+                            <option value="jashore">Jashore</option>
+                            <option value="khulna">Khulna</option>
+                            <option value="gazipur">Gazipur</option>
+                            <option value="hobigonj">Hobigonj</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <input type="file" name="image" accept="image/*" multiple>
+                    </div>
+                    <div class="form-group">
+                        <input type="checkbox" name="agree" value="1"> I agree of the terms and condition
+                    </div>
+                    <div class="form-group">
+                        <input type="button" name="submit" class="btn btn-success btn-block" value="Submit">
+                    </div>
+
+                </form>
+
+            </div>
+            <div class="col-md-6">
+                <form action="" method="post">
+                    <div class="form-group row">
+                        <label for="firstName2" class="col-form-label col-md-3">First Name:</label>
+                        <div class="col-md-9">
+                            <input type="text" id="firstName2" class="form-control" name="first_name2">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lastName2" class="col-form-label col-md-3">Last Name:</label>
+                        <div class="col-md-9">
+                            <input type="text" id="lastName2" class="form-control" name="last_name2">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="email2" class="col-form-label col-md-3">Email Address:</label>
+                        <div class="col-md-9">
+                            <input type="email" id="email2" class="form-control" name="email2">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="pass2" class="col-form-label col-md-3">Password:</label>
+                        <div class="col-md-9">
+                            <input type="password" id="pass2" class="form-control" name="password2">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="phone2" class="col-form-label col-md-3">Phone Number:</label>
+                        <div class="col-md-9">
+                            <input type="tel" id="phone2" class="form-control" name="phone2">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="address2" class="col-form-label col-md-3">Address:</label>
+                        <div class="col-md-9">
+                            <textarea id="address2" name="address2" class="form-control"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="birthDate2" class="col-form-label col-md-3">Date of Birth:</label>
+                        <div class="col-md-9">
+                            <input id="birthDate2" type="date" name="date_of_birth2" class="form-control">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="" class="col-md-3">Gender:</label>
+                        <div class="col-md-9 form-check">
+                            <input id="male2" type="radio" name="gender" value="male2"> Male
+                            <input id="female2" type="radio" name="gender" value="female2"> Female
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="district2" class="col-form-label col-md-3">District Name:</label>
+                        <div class="col-md-9">
+                            <select name="district_name2" id="district2" class="form-control">
+                                <option value="dhaka">Dhaka</option>
+                                <option value="jashore">Jashore</option>
+                                <option value="khulna">Khulna</option>
+                                <option value="gazipur">Gazipur</option>
+                                <option value="hobigonj">Hobigonj</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-3"></div>
+                        <div class="col-md-9">
+                            <input type="file" name="image" accept="image/*" multiple>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <input type="checkbox" name="agree" value="1"> I agree of the terms and condition
+                    </div>
+                    <div class="form-group">
+                        <input type="button" name="submit" class="btn btn-success btn-block" value="Submit">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
+            integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+    <script>tinymce.init({ selector:'textarea' });</script>
+</body>
+</html>
