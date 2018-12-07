@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7149ae8f-b341-4ea3-8ba6-caf00ae92624" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day-9/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-9/css/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-9/javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-9/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-9/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-10/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-9/javascript.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-9/javascript.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,29 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-9/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day-9/javascript.html">
+        <entry file="file://$PROJECT_DIR$/day-10/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-9/css/style2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="143">
+              <caret line="141" column="44" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -93,12 +71,14 @@
         <option value="$PROJECT_DIR$/day-9/css/style2.css" />
         <option value="$PROJECT_DIR$/day-9/index.html" />
         <option value="$PROJECT_DIR$/day-9/javascript.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/day-10/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="29" />
-    <option name="width" value="1346" />
+    <option name="x" value="461" />
+    <option name="width" value="914" />
     <option name="height" value="698" />
   </component>
   <component name="ProjectView">
@@ -106,6 +86,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,16 +94,10 @@
               <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-71" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-71" type="462c0819:PsiDirectoryNode" />
-              <item name="day-9" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +151,8 @@
       <workItem from="1543899401256" duration="14393000" />
       <workItem from="1543938329650" duration="1973000" />
       <workItem from="1543981820925" duration="16315000" />
-      <workItem from="1544064245383" duration="9573000" />
+      <workItem from="1544064245383" duration="9701000" />
+      <workItem from="1544152408141" duration="9340000" />
     </task>
     <task id="LOCAL-00001" summary="index.html file added">
       <created>1543570392108</created>
@@ -217,7 +193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95189000" />
+    <option name="totallyTimeSpent" value="104657000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,9 +206,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13388805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12708019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -425,13 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-9/css/style2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-9/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -439,10 +407,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day-9/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day-9/javascript.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="141" column="44" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
         </state>
       </provider>
     </entry>
