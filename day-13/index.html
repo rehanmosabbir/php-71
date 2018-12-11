@@ -8,8 +8,30 @@
         <title>HOME</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
               integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <style>
+            .main-image {
+                height: 300px;
+                width: 350px;
+                border: 1px solid;
+            }
+            .sub-image {
+                height: 50px;
+                width: 84px;
+                border: 1px solid gray;
+            }
+        </style>
     </head>
     <body>
+
+
+    <img src="images/1.jpg" alt="" class="main-image" id="mainImage">
+    <div>
+        <img src="images/1.jpg" alt="" class="sub-image" id="subImageOne">
+        <img src="images/2.jpg" alt="" class="sub-image" id="subImageTwo">
+        <img src="images/3.jpg" alt="" class="sub-image" id="subImageThree">
+        <img src="images/4.jpg" alt="" class="sub-image" id="subImageFour">
+    </div>
+
         <!--<table>-->
             <!--<tr>-->
                 <!--<th>First Name:</th>-->
@@ -35,21 +57,22 @@
         <!--</table>-->
 
 
-        <input type="text" id="firstName" value="Hello World">
-        <h1 id="heading">This is a heading</h1>
-        <img src="images/1.jpg" alt="image" id="sampleImage">
+        <!--<input type="text" id="firstName" value="Hello World">-->
+        <!--<h1 id="heading">This is a heading</h1>-->
+        <!--<img src="images/1.jpg" alt="image" id="sampleImage">-->
 
-        <script>
+        <!--<script>-->
 
 
-            document.getElementById('firstName').value = 'Hello HTML';
-            document.getElementById('heading').innerText = 'This is another heading';
-            document.getElementById('sampleImage').setAttribute('src','images/2.jpg');
-            // alert(document.getElementById('firstName').value);
-            // alert(document.getElementById('heading').innerText);
-            // alert(document.getElementById('sampleImage').getAttribute('src'));
-        </script>
-
+            <!--document.getElementById('firstName').value = 'Hello HTML';-->
+            <!--document.getElementById('heading').innerText = 'This is another heading';-->
+            <!--document.getElementById('sampleImage').setAttribute('src','images/2.jpg');-->
+            <!--// alert(document.getElementById('firstName').value);-->
+            <!--// alert(document.getElementById('heading').innerText);-->
+            <!--// alert(document.getElementById('sampleImage').getAttribute('src'));-->
+        <!--</script>-->
+        <!--<button type="button" id="btn">Click me</button>-->
+        <!--<div id="div"></div>-->
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>

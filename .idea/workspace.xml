@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7149ae8f-b341-4ea3-8ba6-caf00ae92624" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day-13/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-13/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-13/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-13/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-13/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-13/images/4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-13/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-13/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-13/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-13/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="46" column="78" selection-start-line="46" selection-start-column="78" selection-end-line="46" selection-end-column="78" />
+            <state relative-caret-position="299">
+              <caret line="28" column="72" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day-13/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="69">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,8 +93,8 @@
         <option value="$PROJECT_DIR$/day-12/css/my-style.css" />
         <option value="$PROJECT_DIR$/day-12/index.html" />
         <option value="$PROJECT_DIR$/day-12/js/my-script.js" />
-        <option value="$PROJECT_DIR$/day-13/script.js" />
         <option value="$PROJECT_DIR$/day-13/index.html" />
+        <option value="$PROJECT_DIR$/day-13/script.js" />
       </list>
     </option>
   </component>
@@ -118,13 +118,18 @@
             <path>
               <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-71" type="462c0819:PsiDirectoryNode" />
-              <item name="day-13" type="462c0819:PsiDirectoryNode" />
+              <item name="day-9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php-71" type="462c0819:PsiDirectoryNode" />
+              <item name="day-9" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-71" type="462c0819:PsiDirectoryNode" />
               <item name="day-13" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,7 +195,7 @@
       <workItem from="1544264891149" duration="5436000" />
       <workItem from="1544320827313" duration="14342000" />
       <workItem from="1544417803287" duration="9207000" />
-      <workItem from="1544499917740" duration="2381000" />
+      <workItem from="1544499917740" duration="5689000" />
     </task>
     <task id="LOCAL-00001" summary="index.html file added">
       <created>1543570392108</created>
@@ -231,7 +236,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139971000" />
+    <option name="totallyTimeSpent" value="143279000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,17 +517,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-13/script.js">
+    <entry file="file://$PROJECT_DIR$/day-13/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="299">
+          <caret line="28" column="72" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-13/index.html">
+    <entry file="file://$PROJECT_DIR$/day-13/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="46" column="78" selection-start-line="46" selection-start-column="78" selection-end-line="46" selection-end-column="78" />
+        <state relative-caret-position="69">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
