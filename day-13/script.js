@@ -1,8 +1,20 @@
 
 
-$('subImageOne').click(function () {
-    var getSubImage = this.attr('src');
-    $('mainImage').attr('src',getSubImage);
+$('#subImageOne').click(function () {
+    var getSubImageOne = $(this).attr('src');
+    $('#mainImage').attr('src',getSubImageOne);
+});
+$('#subImageTwo').click(function () {
+    var getSubImageTwo = $(this).attr('src');
+    $('#mainImage').attr('src',getSubImageTwo);
+});
+$('#subImageThree').click(function () {
+    var getSubImageThree = $(this).attr('src');
+    $('#mainImage').attr('src',getSubImageThree);
+});
+$('#subImageFour').click(function () {
+    var getSubImageFour = $(this).attr('src');
+    $('#mainImage').attr('src',getSubImageFour);
 });
 // function createElement() {
 //     var newHeadingElement = document.createElement('h1');
