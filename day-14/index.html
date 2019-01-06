@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>HOME</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+              integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    </head>
+    <body>
+        <form action="" method="post" id="registrationForm">
+            <table>
+                <tr>
+                    <td>First Name:</td>
+                    <td>
+                        <input type="text" name="first_name" id="firstName">
+                        <span id="firstNameError" style="color: red;"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Last Name:</td>
+                    <td>
+                        <input type="text" name="last_name" id="lastName">
+                        <span id="lastNameError" style="color: red;"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email Address:</td>
+                    <td>
+                        <input type="text" name="email_address" id="emailAddress">
+                        <span id="emailAddressError" style="color: red;"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password:</td>
+                    <td>
+                        <input type="password" name="password" id="password">
+                        <input type="checkbox" id="showHide"> Show Password
+                        <span id="passwordError" style="color: red;"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Confirm Password:</td>
+                    <td>
+                        <input type="password" name="confirm_password" id="confirmPassword">
+                        <span id="confirmPasswordError" style="color: red;"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Gender:</td>
+                    <td>
+                        <input type="radio" name="gender" value="male">Male
+                        <input type="radio" name="gender" value="female">Female
+                        <span id="genderError" style="color: red;"></span>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>District Name:</td>
+                    <td>
+                        <select name="district_name" id="districtName">
+                            <option value=" ">--Select Your District--</option>
+                            <option value="Dhaka">Dhaka</option>
+                            <option value="Jashore">Jashore</option>
+                            <option value="Rajshahi">Rajshahi</option>
+                            <option value="Barishal">Barishal</option>
+                        </select>
+                        <span id="districtNameError"  style="color: red;"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="submit" name="btn" id="btn" value="Submit"></td>
+                </tr>
+            </table>
+        </form>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
+            integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
