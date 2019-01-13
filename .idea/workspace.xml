@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7149ae8f-b341-4ea3-8ba6-caf00ae92624" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day-16/demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/example-four.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/example.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/fullName.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/function-definition.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/function-example-one.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/function-example-three.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/function-example-two.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/hello.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-17/TestCalculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-17/calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-18/OddEven.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-18/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-19/ExampleTwo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-19/view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-16/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/day-16/view.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,28 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-16/view.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day-19/view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-              <folding>
-                <element signature="e#6#36#0#PHP" expanded="true" />
-                <marker date="1547231144525" expanded="true" signature="109:176" ph="..." />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day-16/fullName.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-19/ExampleTwo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="e#6#85#0#PHP" expanded="true" />
-                <marker date="1547231144546" expanded="true" signature="166:209" ph="..." />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -80,14 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day-3/index.html" />
-        <option value="$PROJECT_DIR$/day-3/about.html" />
-        <option value="$PROJECT_DIR$/day-3/contact.html" />
-        <option value="$PROJECT_DIR$/day-4/index.html" />
-        <option value="$PROJECT_DIR$/day-4/layout-two.html" />
-        <option value="$PROJECT_DIR$/day-4/style.css" />
-        <option value="$PROJECT_DIR$/day-5/style.css" />
-        <option value="$PROJECT_DIR$/day-5/index.html" />
         <option value="$PROJECT_DIR$/day-5/css/style.css" />
         <option value="$PROJECT_DIR$/day-6/css/style.css" />
         <option value="$PROJECT_DIR$/day-6/index.html" />
@@ -131,10 +111,18 @@
         <option value="$PROJECT_DIR$/day-16/example.php" />
         <option value="$PROJECT_DIR$/day-16/fullName.php" />
         <option value="$PROJECT_DIR$/day-16/view.php" />
+        <option value="$PROJECT_DIR$/day-17/calculator.php" />
+        <option value="$PROJECT_DIR$/day-17/TestCalculator.php" />
+        <option value="$PROJECT_DIR$/day-18/Demo.php" />
+        <option value="$PROJECT_DIR$/day-18/OddEven.php" />
+        <option value="$PROJECT_DIR$/day-18/view.php" />
+        <option value="$PROJECT_DIR$/day-19/Example.php" />
+        <option value="$PROJECT_DIR$/day-19/ExampleTwo.php" />
+        <option value="$PROJECT_DIR$/day-19/view.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="461" />
     <option name="width" value="914" />
     <option name="height" value="698" />
@@ -144,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,10 +139,16 @@
               <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-71" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="php-71" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php-71" type="462c0819:PsiDirectoryNode" />
+              <item name="day-19" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +241,10 @@
       <workItem from="1547136759005" duration="7533000" />
       <workItem from="1547171106097" duration="599000" />
       <workItem from="1547223969744" duration="7073000" />
-      <workItem from="1547296715320" duration="285000" />
+      <workItem from="1547296715320" duration="1107000" />
+      <workItem from="1547306619877" duration="2824000" />
+      <workItem from="1547357669667" duration="3175000" />
+      <workItem from="1547398438063" duration="2059000" />
     </task>
     <task id="LOCAL-00001" summary="index.html file added">
       <created>1543570392108</created>
@@ -289,7 +285,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220932000" />
+    <option name="totallyTimeSpent" value="229812000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,7 +300,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -376,39 +372,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="index.html and style.css file added" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day-5/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2921">
-          <caret line="127" column="68" selection-start-line="127" selection-start-column="68" selection-end-line="127" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-6/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="2" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-7/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-736">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-8/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-8/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-8/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-8/images/js/bootstrap.js" />
     <entry file="file://$PROJECT_DIR$/day-8/images/1.jpg" />
     <entry file="file://$PROJECT_DIR$/day-8/images/2.jpg" />
@@ -663,25 +626,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day-16/fullName.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+            <marker date="1547231144546" expanded="true" signature="166:209" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day-16/view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
           <folding>
             <element signature="e#6#36#0#PHP" expanded="true" />
-            <marker date="1547231144525" expanded="true" signature="109:176" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-16/fullName.php">
+    <entry file="file://$PROJECT_DIR$/day-17/calculator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1547231144546" expanded="true" signature="166:209" ph="..." />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" column="97" selection-start-line="19" selection-start-column="97" selection-end-line="19" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-17/TestCalculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-18/Demo.php" />
+    <entry file="file://$PROJECT_DIR$/day-18/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-18/OddEven.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-19/ExampleTwo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-19/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>

@@ -6,7 +6,7 @@
 
 //    require_once 'example.php';
 //
-//    $objExample = new Example(10);
+//    $objExample = new ExampleTwo(10);
 //    $objExample->addition(10,20);
     $result = '';
     if(isset($_POST['btn'])){
