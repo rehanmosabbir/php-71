@@ -1,9 +1,17 @@
 <?php
+    require_once 'vendor/autoload.php';
+//    require_once 'app/classes/StudentInfo.php.php';
+//    use App\classes\StudentInfo;
+//
+//    StudentInfo::addition();
 
+//    if (isset($_POST['btn'])){
+//        $objExampleTwo = new App\classes\ExampleTwo();
+//        $res = $objExampleTwo->wordCharacterCount($_POST);
+//    }
+    use App\classes\ExampleTwo;
     if (isset($_POST['btn'])){
-        require_once 'ExampleTwo.php';
-        $objExampleTwo = new App\classes\ExampleTwo();
-        $res = $objExampleTwo->wordCharacterCount($_POST);
+        $res = ExampleTwo::wordCharacterCount($_POST);
     }
 ?>
 
